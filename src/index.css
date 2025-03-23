@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap");
+@import "tailwindcss";
+
+/* Anton font */
+.Anton {
+  font-family: "Anton", sans-serif;
+}
+
+/* Boldonse - Make sure this font is actually available */
+.Boldonse {
+  font-family: "Boldonse", sans-serif; /* Added fallback font */
+}
+
+/* Roboto */
+.Roboto {
+  font-family: "Roboto", sans-serif; /* Changed to sans-serif for correct usage */
+}
